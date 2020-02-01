@@ -1,0 +1,14 @@
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\bin\Debug\netcoreapp2.1\Rest Api.deps.json
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\bin\Debug\netcoreapp2.1\Rest Api.runtimeconfig.json
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\bin\Debug\netcoreapp2.1\Rest Api.runtimeconfig.dev.json
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\bin\Debug\netcoreapp2.1\Rest Api.dll
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\bin\Debug\netcoreapp2.1\Rest Api.pdb
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\obj\Debug\netcoreapp2.1\Rest Api.csprojAssemblyReference.cache
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\obj\Debug\netcoreapp2.1\Rest Api.csproj.CoreCompileInputs.cache
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\obj\Debug\netcoreapp2.1\Rest Api.RazorAssemblyInfo.cache
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\obj\Debug\netcoreapp2.1\Rest Api.RazorAssemblyInfo.cs
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\obj\Debug\netcoreapp2.1\Rest Api.AssemblyInfoInputs.cache
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\obj\Debug\netcoreapp2.1\Rest Api.AssemblyInfo.cs
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\obj\Debug\netcoreapp2.1\Rest Api.RazorTargetAssemblyInfo.cache
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\obj\Debug\netcoreapp2.1\Rest Api.dll
+D:\Learning\Projects\C#\Rest Api\Rest Api\Rest Api\obj\Debug\netcoreapp2.1\Rest Api.pdb
